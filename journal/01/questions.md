@@ -1,6 +1,6 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > backup our code and save previous versions. also allows easy sharing.
 
 02. In the terminal, what is the command `mkdir` used for?
     > | ANSWER HERE |
