@@ -85,3 +85,12 @@ a line break uses three hyphens hyperlinks can be inlined [article link](https:/
 ---
 
 ![codeworks-logo](https://codeworks.blob.core.windows.net/public/assets/img/fs-mark.png)
+
+
+a tags are links 
+
+divs fill parent by default a tags and buttons and spans do not
+
+margin and padding bad for layout cause its inconsistant on differnet screens
+
+margin used for small adjustments 

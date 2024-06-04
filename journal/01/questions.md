@@ -3,7 +3,7 @@
     > backup our code and save previous versions. also allows easy sharing.
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > mkdir is used to make a new directory inside of the current directory
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
@@ -12,7 +12,7 @@
     > | ANSWER HERE |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > you may important something for one instance and then need the other rules to be more immportant for another instance
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -22,7 +22,7 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > name of the element or class it should effect, the rule you want to set, parameters for the rule
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
