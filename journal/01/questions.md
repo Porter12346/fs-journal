@@ -28,10 +28,10 @@
     > | ANSWER HERE |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > to help you have an idea of what your site will look like before you start bulding it
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > yes, because otherwise you will probably spend more time changing your code to change the website rather than just seeing what needs changed in the wireframe
 
 10. Define the display `:flex property:`
     > | ANSWER HERE |
