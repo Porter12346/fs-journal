@@ -9,7 +9,7 @@
     > | ANSWER HERE |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > the more specific a css rule is the higher the priority it will take for overruleing other rules
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
     > you may important something for one instance and then need the other rules to be more immportant for another instance
@@ -25,7 +25,7 @@
     > name of the element or class it should effect, the rule you want to set, parameters for the rule
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > with good design they are more likely to come back/ stay on your site and will be more likely to interact with it 
 
 08. What is the purpose of ***wireframing***?
     > to help you have an idea of what your site will look like before you start bulding it
@@ -34,7 +34,7 @@
     > yes, because otherwise you will probably spend more time changing your code to change the website rather than just seeing what needs changed in the wireframe
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > determins wheather the flexbow will grow or shrink for extra space
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > margin, border, padding, body
