@@ -6,7 +6,7 @@
     > mkdir is used to make a new directory inside of the current directory
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > things that do java script type of effecvt swithout javascript like hover and also maybe media queries
 
 04. What is ***specificity*** and how might you use it to your benefit?
     > the more specific a css rule is the higher the priority it will take for overruleing other rules
