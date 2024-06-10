@@ -42,7 +42,7 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > argumetns are the objects that a function accepts, parameters are the vars you are putting in them.
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
