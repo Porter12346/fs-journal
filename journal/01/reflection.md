@@ -3,6 +3,10 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+i feel like everything went pretty well this week and i learned alot
 - What did you learn that was a shock or surprise?
+i was surprised how easy it is to make a website dynamicly change for mobile, which really makes me wonder why more websites arent adapted fo rmobile
 - What are you struggling with?
+this week not too much 
 - What would you count as a victory?
+finishing the checkpoint with all the stretch goals
