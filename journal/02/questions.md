@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > fruit.splice(2, 1)
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,7 +34,8 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > you.friends.push(them)
+    them.friends.push(you)
 
 06. Give an example of a JavaScript `Conditional`:
 
@@ -50,8 +51,10 @@
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > primitive is things like var, bool, int, string reference is like 
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > for(let i = -100; i > 100; i++){
+        console.log(i);
+    }
