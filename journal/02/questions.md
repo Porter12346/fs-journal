@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > Single-responsibility Principle, Open-closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -39,7 +39,13 @@
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > if{
+
+    }
+    else if{
+
+    }
+    else{}
 
 07. What is the main difference between `parameters` and `arguments`?
 
@@ -47,7 +53,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > printing things into the html 
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
