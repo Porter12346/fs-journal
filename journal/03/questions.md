@@ -17,7 +17,7 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > a class is the base of how the object should look while the instance has values in for instead of just the base case
 
 06. What is a computed Property?
   
