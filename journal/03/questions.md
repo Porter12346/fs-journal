@@ -25,15 +25,15 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > to keep every process of your code singlarly purposed and seperated
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > to recieve input from the html and draw to the DOM
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > to interpret data recieved from the controller
 
 10. What is the job of the `Model` in `MVC`?
   
