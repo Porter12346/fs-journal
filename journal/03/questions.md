@@ -1,7 +1,7 @@
 # Application Architecture, MVC Design Pattern
 01. What are the Pillars of Object Oriented Programming (`OOP`)?
   
-  > | ANSWER HERE |
+  > encapsulation, inheritance, polymorphism, and abstraction
 
 02. How does `export` differ from `export default`?
   
@@ -9,11 +9,11 @@
 
 03. What is Encapsulation?
   
-  > | ANSWER HERE |
+  > keeping data in a seperate file not accessable by the index.html or by the user in the console
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > allows us to have litseners for when a piece of data changes
 
 05. What the difference between a `class` and an instance of a `class`?
   
@@ -37,4 +37,4 @@
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > To tell your objects how they are meant to be formatted
