@@ -5,7 +5,7 @@
 
 02. How does `export` differ from `export default`?
   
-  > | ANSWER HERE |
+  >export allows other files to use the function exported
 
 03. What is Encapsulation?
   
