@@ -1,11 +1,11 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > async code can wait for one line to finish before starting another if it has promises
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > will litsen for a piece of data to change and then will call a function
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
@@ -17,19 +17,19 @@
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > you catch an error from a promise using a try catch and a promise is when an api call will send you data ut has not yet actually set the data
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > Post get put delete and thats 4 of them 😎
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > Application programming interface
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > must make the function an async 
 
 09. What is the purpose of encapsulation in programming?
 
@@ -37,8 +37,8 @@
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > 200
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > bad request
