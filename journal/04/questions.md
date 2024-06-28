@@ -9,11 +9,11 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > REpresentational State Transfer it is a way to design programs that can communicate with each other
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > a function passed as an argument into another function
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
@@ -33,7 +33,7 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > to hide specific values from parts of your program to protect from unathorized usage
 
 10. What is `HTTP` response code for a successful request?
 
