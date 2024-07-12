@@ -9,7 +9,7 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | ANSWER HERE |
+  > Object–relational mapping 
 
 04. Which two `HTTP` request types include a body?
 
@@ -21,11 +21,11 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | ANSWER HERE |
+  > one to one(i dont know any solid examples of this one) one to many(a quote has one author) many to many(shows in broadway babies)
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  >a software ran inside of an api before making a request such as auth0
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
@@ -33,8 +33,8 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > ?tag=winter
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > a set of properties added to a schema from another object
