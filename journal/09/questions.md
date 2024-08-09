@@ -1,31 +1,31 @@
 # Working in a Professional Environment
 01. What is Inheritance?
 
-> | ANSWER HERE |
+> when you use extend on a class to allow it to have all the properties of another class with some 
 
 02. What is the `Singleton` design pattern?
 
-> | ANSWER HERE |
+>   using a const on a class so that there can only ever be one of them
 
 03. What is the `Observer` design pattern?
 
-> | ANSWER HERE |
+> when something contains a state and alerts other objects when states change
 
 04. What is the `Strategy` design pattern?
 
-> | ANSWER HERE |
+> choose an algorithm at run time instead of just having one hardcoded
 
 05. What is the `Factory` design pattern?
 
-> | ANSWER HERE |
+> create objects without having to specify their exact class
 
 06. What is test driven development?
 
-> | ANSWER HERE |
+> when you test things often to make sure its good
 
 07. In Scrum/Agile what is the DoD?
 
-> | ANSWER HERE |
+> the organization's formal definition of quality for all Product Backlog Items
 
 08. Give two examples of a user story:
 
