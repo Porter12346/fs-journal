@@ -29,12 +29,12 @@
 
 08. Give two examples of a user story:
 
-> | ANSWER HERE |
+> place orders, send messages
 
 09. During which ceremony is your Sprint Backlog created?
 
-> | ANSWER HERE |
+> sprint planning meeting
 
 10. In which of these ceremonies are Tasks assigned to you?
 
-> | ANSWER HERE |
+> thee next one after sprint planning
